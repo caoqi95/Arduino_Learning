@@ -18,3 +18,6 @@
 
 + Physical Pixel: Turn a LED on and off by sending data to your Arduino.
 + Read ASCII String: Parse a comma-separated string of integers to fade an LED.
+
+### Control Structures
++ Arrays: A variation on the For Loop example that demonstrates how to use an array.
