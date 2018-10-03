@@ -17,3 +17,4 @@
 ### Communication
 
 + Physical Pixel: Turn a LED on and off by sending data to your Arduino.
++ Read ASCII String: Parse a comma-separated string of integers to fade an LED.
