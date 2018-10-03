@@ -12,3 +12,8 @@
 
 + Calibration: Define a maximum and minimum for expected analog sensor values.
 + Fdaing: Use an analog output (PWM pin) to fade an LED.
+
+
+### Communication
+
++ Physical Pixel: Turn a LED on and off by sending data to your Arduino.
