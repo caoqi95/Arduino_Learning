@@ -27,3 +27,4 @@
 
 ### Digtial Tube
 + Single DigitalTube: Drive a digital tube with common anode, display Numbers 0~9.
++ Random Dice: Generate a number randomly.
