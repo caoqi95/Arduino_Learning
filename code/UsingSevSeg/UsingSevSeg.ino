@@ -1,5 +1,6 @@
 /*
- * SevSeg：使用 SevSeg 数码管库和光敏电阻来驱动一个数码管显示数字
+ * UsingSevSeg：使用 SevSeg 数码管库和光敏电阻来驱动一个数码管显示数字
+ * SevSeg Library：https://github.com/DeanIsMe/SevSeg
  */
 
 #include "SevSeg.h"
