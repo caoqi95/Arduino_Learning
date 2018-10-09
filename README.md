@@ -28,4 +28,4 @@
 ### Digtial Tube
 + Single DigitalTube: Drive a digital tube with common anode, display Numbers 0~9.
 + Random Dice: Generate a number randomly.
-+ Using SevSeg: Use SevSeg Library and Photoresistor to drive a digital tube.
++ Using SevSeg: Use SevSeg library and Photoresistor to drive a digital tube.
