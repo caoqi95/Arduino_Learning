@@ -31,3 +31,6 @@
 + Using SevSeg: Use SevSeg library and Photoresistor to drive a digital tube.
 + Four Digits：Driver four digital tubes to display numbers.
 + Timer：Make a timer using TimerOne library.
+
+### Display
++ 1602 LCD:  Use 1602 LCD to display "Hello, World!" and run time.
