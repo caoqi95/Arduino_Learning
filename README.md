@@ -29,3 +29,5 @@
 + Single DigitalTube: Drive a digital tube with common anode, display Numbers 0~9.
 + Random Dice: Generate a number randomly.
 + Using SevSeg: Use SevSeg library and Photoresistor to drive a digital tube.
++ Four Digits：Driver four digital tubes to display numbers.
++ Timer：Make a timer using TimerOne library.
