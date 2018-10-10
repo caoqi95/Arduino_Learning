@@ -4,7 +4,7 @@
 
 #include <dht.h>
 
-// 将 DHT 的数据端口连接至 A0 口
+// 将传感器的数据端口连接至 A0 口
 #define dht_apin A0 
 
 dht DHT;
