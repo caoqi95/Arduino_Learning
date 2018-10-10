@@ -1,8 +1,7 @@
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 
-// set the LCD address to 0x27 for a 16 chars and 2 line display
-// 为一个16字符和2行显示，设置 LCD 的地址为 0x27 (请注意自己的地址，可能会不一样)
+// 为一个16字符和2行显示，设置 LCD 的 I2C 地址为 0x27 (请注意自己的地址，可能会不一样,后面附加了查询的代码)
 LiquidCrystal_I2C lcd(0x27,16,2); 
 
 void setup()
