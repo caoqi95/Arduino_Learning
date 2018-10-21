@@ -36,4 +36,7 @@
 + 1602 LCD:  Use 1602 LCD to display "Hello, World!" and run time.
 
 ### Sensors
-+ DHC：Use humidity and temperature sensor to detect humidity and temperature.
++ DHC：Use humidity sensor to detect humidity and temperature.
+
+### Projects
++ DetectHT：Detect the humidity and temperature and display it on the LCD.
