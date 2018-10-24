@@ -46,6 +46,6 @@ void loop()
       lcd.print("cm");
     digitalWrite(BuzzerPin, HIGH);
   }
-   //every 1sec. 
+   // 延时 1s 
   delay(1000);
 }
