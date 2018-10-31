@@ -40,3 +40,6 @@
 
 ### Projects
 + DetectHT：Detect the humidity and temperature and display it on the LCD.
++ SimpleClock：Use RTC module to make a simple clock.
++ MeatureDistance：Use an ultrasonic sensor to measure the distance and display it on the LCD. Give an alarm when the distance is less than 20cm.
++ MeatureDistance2.0：Use an ultrasonic sensor to measure the distance and display it on the LCD. When the distance is less than 20, send out an alarm and turn on the light.
