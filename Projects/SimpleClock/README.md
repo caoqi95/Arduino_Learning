@@ -80,7 +80,7 @@ void loop() {
 ## 实际结果
 
 
-![](https://upload-images.jianshu.io/upload_images/2759738-794988de39caecf3.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/480/format/webp)
+![](https://upload-images.jianshu.io/upload_images/2759738-794988de39caecf3.gif)
 
 
 ## 心得总结 
