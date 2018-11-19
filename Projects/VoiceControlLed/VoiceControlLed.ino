@@ -1,7 +1,6 @@
 /*
  * 通过蓝牙，实现手机语音控制 LED
  */
-#include <SoftwareSerial.h>
 #define YELLOW_PIN 13
 #define RED_PIN 12
 
