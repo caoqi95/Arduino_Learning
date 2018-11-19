@@ -3,7 +3,7 @@
  */
 #include <SoftwareSerial.h>
 #define YELLOW_PIN 13
-#define RED_PIN 9
+#define RED_PIN 12
 
 
 String voice;
@@ -28,6 +28,7 @@ String getVoice(){
     }
    return voice;
   }
+
 // 使 LED 闪烁
 void blink(){
   digitalWrite(YELLOW_PIN, HIGH);
@@ -37,17 +38,16 @@ void blink(){
   digitalWrite(RED_PIN, LOW); 
   delay(100);
   }
+
 // 控制函数。解析字符串指令并执行相应动作
 void control(String voice){
   // 打开黄色 LED 
   if(voice.endsWith("yellow")){
     digitalWrite(YELLOW_PIN, HIGH);
-    //Serial.println("Light ON");
     }
    // 打开绿色 LED
   if(voice.endsWith("red")){
     digitalWrite(RED_PIN, HIGH);
-    //Serial.println("Light ON");
     }  
   // 闪烁
   if(voice.endsWith("blink")){
