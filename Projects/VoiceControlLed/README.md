@@ -139,6 +139,7 @@ void loop() {
 
 ## 参考文章
 [1]. [Android 通过蓝牙语音控制 Arduino](https://www.jianshu.com/p/981266b507f5)
+
 [2]. [Arduino使用HC05蓝牙模块与手机连接](https://www.jianshu.com/p/4ebf1a01df51)
 
 
