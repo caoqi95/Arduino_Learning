@@ -5,7 +5,7 @@
 ### Digital
 
 + State Change Detection：识别按键按下的状态，并计算按下的次数。
-+ DigitalWriteLed：用数字信号 1，0 读写 LED。
++ DigitalWriteLed：流水灯：依次点亮每个LED然后依次熄灭。
 
 
 ### Analog
