@@ -1,3 +1,6 @@
+/*
+ * 通过串口来控制 LED 的开关
+ */
 const int ledPin = 13;
 int incomingByte;
 
