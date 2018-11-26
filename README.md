@@ -17,7 +17,7 @@
 ### Communication
 
 + PhysicalPixel: 通过向 Arduino 发送数据来打开和关闭 LED。
-+ ReadASCIIString: 解析以逗号分隔的整数字符串以淡化 LED。
++ ReadASCIIString: 将串行口读取的数据解析出来给 RGB LED 进行调光。
 
 ### Control Structures
 + Arrays: For 循环示例的变体，演示如何使用数组。
