@@ -4,7 +4,7 @@
 
 ### Digital
 
-+ State Change Detection：识别按键按下的状态，并计算按下的次数。
++ StateChangeDetection：识别按键按下的状态，并计算按下的次数。
 + DigitalWriteLed：流水灯：依次点亮每个LED然后依次熄灭。
 
 
@@ -16,24 +16,24 @@
 
 ### Communication
 
-+ Physical Pixel: 通过向 Arduino 发送数据来打开和关闭 LED。
-+ Read ASCII String: 解析以逗号分隔的整数字符串以淡化 LED。
++ PhysicalPixel: 通过向 Arduino 发送数据来打开和关闭 LED。
++ ReadASCIIString: 解析以逗号分隔的整数字符串以淡化 LED。
 
 ### Control Structures
 + Arrays: For 循环示例的变体，演示如何使用数组。
-+ Switch Case: 如何在离散数量的值之间进行选择。
-+ Switch Case 2: 显示如何根据串行端口中收到的字符执行不同的操作。
++ SwitchCase: 如何在离散数量的值之间进行选择。
++ SwitchCase2: 显示如何根据串行端口中收到的字符执行不同的操作。
 
 
 ### Digtial Tube
-+ Single DigitalTube: 驱动带共阳极的数码管，显示数字 0~9。
-+ Random Dice: 随机生成一个数字。
-+ Using SevSeg: 使用 SevSeg 库和光敏电阻来驱动数码管。
-+ Four Digits：驱动四个数码管来显示数字。
++ SingleDigitalTube: 驱动带共阳极的数码管，显示数字 0~9。
++ RandomDice: 随机生成一个数字。
++ UsingSevSeg: 使用 SevSeg 库和光敏电阻来驱动数码管。
++ FourDigits：驱动四个数码管来显示数字。
 + Timer：使用 TimerOne 库来制作一个时钟。
 
 ### Display
-+ 1602 LCD:  使用 1602 LCD 来显示 "Hello, World!" 以及运行时间。
++ 1602LCD:  使用 1602 LCD 来显示 "Hello, World!" 以及运行时间。
 
 ### Sensors
 + DHC：使用温湿度传感器来检测温湿度。
