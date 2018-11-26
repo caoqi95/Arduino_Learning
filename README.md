@@ -28,7 +28,7 @@
 ### Digtial Tube
 + Single DigitalTube: 驱动带共阳极的数码管，显示数字 0~9。
 + Random Dice: 随机生成一个数字。
-+ Using SevSeg: 使用 SevSe g库和光敏电阻来驱动数码管。
++ Using SevSeg: 使用 SevSeg 库和光敏电阻来驱动数码管。
 + Four Digits：驱动四个数码管来显示数字。
 + Timer：使用 TimerOne 库来制作一个时钟。
 
