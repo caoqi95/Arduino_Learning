@@ -1,5 +1,5 @@
 /*
- * Read ASCII String：将串行口读取的数据解析出来给RGB LED 进行调光
+ * Read ASCII String：将串行口读取的数据解析出来给 RGB LED 进行调光
  * 使用的是共阴极 RGB LED，共阴极接 GND
  */
 
