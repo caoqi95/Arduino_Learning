@@ -5,13 +5,13 @@
 ### Digital
 
 + StateChangeDetection：识别按键按下的状态，并计算按下的次数。
-+ DigitalWriteLed：流水灯：依次点亮每个LED然后依次熄灭。
++ DigitalWriteLed：流水灯，依次点亮每个 LED 然后依次熄灭。
 
 
 ### Analog
 
 + Calibration: 定义期望的模拟传感器值的最大值和最小值。
-+ Fading: 使用模拟输出（PWM引脚）淡化 LED。
++ Fading: 使用模拟输出（PWM 引脚）淡化 LED。
 
 
 ### Communication
